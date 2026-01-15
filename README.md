@@ -67,15 +67,13 @@ const xiaoZhao = {
 
 <div align="center">
   <a href="https://github.com/vag-Zhao">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vag-Zhao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vag-Zhao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vag-Zhao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vag-Zhao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vag-Zhao&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vag-Zhao&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -83,9 +81,7 @@ const xiaoZhao = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vag-Zhao&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-trophies.vercel.app/?username=vag-Zhao&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -94,18 +90,18 @@ const xiaoZhao = {
 
 <div align="center">
   <a href="https://github.com/vag-Zhao/WeMediaSpider">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=WeMediaSpider&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=WeMediaSpider&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/vag-Zhao/Outlook-Mail-Manager">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=Outlook-Mail-Manager&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=Outlook-Mail-Manager&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/vag-Zhao/WechatSender_Auto">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=WechatSender_Auto&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=WechatSender_Auto&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/vag-Zhao/DeepSeek-based-Excel-Translator">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=DeepSeek-based-Excel-Translator&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=DeepSeek-based-Excel-Translator&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -114,9 +110,7 @@ const xiaoZhao = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vag-Zhao&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vag-Zhao&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
