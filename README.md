@@ -63,29 +63,6 @@ const xiaoZhao = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/vag-Zhao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vag-Zhao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vag-Zhao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vag-Zhao&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vag-Zhao&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <div align="center">
