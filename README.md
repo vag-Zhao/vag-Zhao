@@ -63,27 +63,6 @@ const xiaoZhao = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/vag-Zhao/WeMediaSpider">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=WeMediaSpider&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vag-Zhao/Outlook-Mail-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=Outlook-Mail-Manager&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/vag-Zhao/WechatSender_Auto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=WechatSender_Auto&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vag-Zhao/DeepSeek-based-Excel-Translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=DeepSeek-based-Excel-Translator&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
