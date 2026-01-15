@@ -66,12 +66,16 @@ const xiaoZhao = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vag-Zhao&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vag-Zhao&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/vag-Zhao">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vag-Zhao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vag-Zhao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=vag-Zhao&theme=tokyonight_duo&hide_border=true&stroke=0000&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=vag-Zhao&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <br/>
@@ -79,7 +83,9 @@ const xiaoZhao = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vag-Zhao&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vag-Zhao&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <br/>
@@ -87,12 +93,20 @@ const xiaoZhao = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![WeMediaSpider](https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=WeMediaSpider&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vag-Zhao/WeMediaSpider)
-[![Outlook-Mail-Manager](https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=Outlook-Mail-Manager&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vag-Zhao/Outlook-Mail-Manager)
-[![WechatSender_Auto](https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=WechatSender_Auto&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vag-Zhao/WechatSender_Auto)
-[![DeepSeek-based-Excel-Translator](https://github-readme-stats.vercel.app/api/pin/?username=vag-Zhao&repo=DeepSeek-based-Excel-Translator&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/vag-Zhao/DeepSeek-based-Excel-Translator)
-
+  <a href="https://github.com/vag-Zhao/WeMediaSpider">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=WeMediaSpider&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/vag-Zhao/Outlook-Mail-Manager">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=Outlook-Mail-Manager&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/vag-Zhao/WechatSender_Auto">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=WechatSender_Auto&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/vag-Zhao/DeepSeek-based-Excel-Translator">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=vag-Zhao&repo=DeepSeek-based-Excel-Translator&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 <br/>
@@ -100,7 +114,9 @@ const xiaoZhao = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vag-Zhao&custom_title=Contribution%20Graph&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vag-Zhao&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
+  </a>
 </div>
 
 <br/>
