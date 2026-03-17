@@ -42,13 +42,6 @@ const xiaoZhao = {
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vag-Zhao&custom_title=Contribution%20Graph&bg_color=1a1b27&color=6366f1&line=6366f1&point=ffffff&area_color=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
 
 ---
 
