@@ -6,8 +6,6 @@
 
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%94%A5)](https://git.io/typing-svg)
-
   <br/>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=vag-Zhao&style=for-the-badge&color=6366f1)
@@ -55,7 +53,5 @@ const xiaoZhao = {
   <br/>
 
   **如果我的项目对你有帮助，欢迎 ⭐ Star 支持！**
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
