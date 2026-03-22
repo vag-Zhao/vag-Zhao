@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20小赵%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20小赵%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20小赵%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</picture>
 
 <div align="center">
 
